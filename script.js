@@ -21,7 +21,6 @@ else{
     alert("Os números informados são diferentes");
 }
 
-
 function inputUser(mensage){
     let input = prompt(mensage);
     while(isNaN(input)){
